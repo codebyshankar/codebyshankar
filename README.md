@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shankar
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning python, web programming, cloud computing, machine learning and deep learning
+- 🌱 I’m currently learning python, machine learning and deep learning
 - 💞️ I’m looking to collaborate on small scale projects based on python and machine learning
 
 <!---
